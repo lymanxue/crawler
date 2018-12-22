@@ -5,11 +5,11 @@
     main func
 """
 def main():
-	print("Hello World!")
+    print("Hello World!")
 
 
 """
-	init
+    init
 """
 if __name__ == "__main__":
     main()
